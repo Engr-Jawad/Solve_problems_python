@@ -1,6 +1,6 @@
-# my_list=[1,2,3,4]
+my_list=[1,2,3,4]
 sum=0
-for i in range(len(list)):
-    sum+=list[i]
+for i in range(len(my_list)):
+    sum+=my_list[i]
 print("sum of the element in the list : ",sum)
     
