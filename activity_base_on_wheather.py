@@ -4,7 +4,7 @@ wheather=input("enter the wheather : ")
 if wheather == "sunny":
     print("come dude lets go for a walk")
 elif wheather == "rainy":
-    print("lets watch a movier")
+    print("lets watch a movie")
 elif wheather == "cloudy":
     print("come lets play football dude")
 elif wheather == "snowy":
